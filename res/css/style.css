@@ -1,0 +1,56 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: yellow;
+    background: white;
+    font-size: 50pt;
+    font-optical-sizing: auto;
+    -webkit-text-stroke: 2px black;
+}
+#icon{
+    padding-left: 14px;
+    width: 50px;
+    height: 50px;
+
+}
+body{
+    background-image: url("pokepaper.png");
+    background-repeat: repeat;
+    background:linear-gradient(black, white);
+    
+}
+#charizard-m{
+    max-width: 500px;
+}
+
+
+#left {
+border: black 10px solid;
+background: white;
+position: absolute;
+align-self: center;
+margin-right: 100%;
+display: inline;
+padding-bottom: 0px;
+width: 500px;
+height: 531px;
+align-self:auto;
+}
+#right{
+    border: black 10px solid;
+    position: absolute;
+    align-self: last baseline;
+    display: inline;
+    align-self:auto;
+width: 500px;
+height: 531px;
+padding-bottom: 0px;
+margin-left: 0%;
+background: white;
+    
+    }
+#field{
+    background-color: transparent;
+    margin-left: 518px;
+    padding-bottom: 25%;
+
+}
